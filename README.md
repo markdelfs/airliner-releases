@@ -2,7 +2,7 @@
 
 **Tune into the world.** Discover and listen to live radio on your Mac.
 
-[Download Airliner](https://github.com/markdelfs/airliner-releases/releases/latest/download/Airliner-1.0.0.dmg)
+[Download Airliner](https://github.com/markdelfs/airliner-releases/releases/latest)
 
 Requires macOS 14 or later. Universal for Apple silicon and Intel. Open the DMG and drag Airliner to Applications.
 
